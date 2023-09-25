@@ -17,7 +17,7 @@ I am Ndidiamaka Siokwu, a passionate Frontend Web Developer on a mission to crea
 </h1>
 
 ### GitHub Stats 📊📈
-[![GitHub Streak](https://streak-stats.demolab.com?user=ladykays&theme=dark&hide_border=true&card_width=495)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladykays&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ladykays&theme=transparent&hide_border=true&card_width=495)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladykays&theme=dark&hide_border=true)
 
 ### Currently Learning 🧠📚
 * Full Stack Web Development
