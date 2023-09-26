@@ -4,11 +4,11 @@
 I am Ndidiamaka Siokwu, a passionate Frontend Web Developer on a mission to create stunning and highly functional web applications. My journey in web development has been fueled by a relentless pursuit of excellence and a genuine love for crafting digital experiences.
 
 <h1 align="center">
-  <a href="https://github.com/ladykays?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/ndidiamaka-siokwu-67b1a6267/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/ladykays?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ladykerrion@sky.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=email&logoColor=white" alt="Mailto Ladykays"/>
