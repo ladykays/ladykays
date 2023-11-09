@@ -24,7 +24,7 @@ I am Ndidiamaka Siokwu, a passionate Frontend Web Developer on a mission to crea
 </h1>
 
 ### GitHub Stats 📊📈
- ![Ladykays's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladykays&show_icons=true&theme=transparent&title_color=9745f5&text_color=9e9e9e&icon_color=9745f5&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladykays&layout=donut&hide_border=true&theme=transparent&title_color=9745f5&text_color=9e9e9e)](https://github.com/ladykays/github-readme-stats) 
+ ![Ladykays's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladykays&show_icons=true&theme=transparent&title_color=9745f5&text_color=9e9e9e&icon_color=9745f5&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladykays&layout=donut&hide_border=true&theme=transparent&title_color=9745f5&text_color=9f9e9e)](https://github.com/ladykays/github-readme-stats) 
  
  <!--
  [![GitHub Streak](https://streak-stats.demolab.com/?user=ladykays&theme=transparent&hide_border=true)](https://git.io/streak-stats) 
